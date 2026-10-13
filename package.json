@@ -23,7 +23,7 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "@as-pect/cli": "^8.1.0",
         "@assemblyscript/loader": "^0.27.29",
